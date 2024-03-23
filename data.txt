@@ -1,0 +1,10 @@
+Website |.!entryWebsite |<bound method Entry.get of <tkinter.Entry object .!entry>>Website: s321s21s | Email: mesttest71@gmail.com | Password: s213s21
+Website: s312 | Email: mesttest71@gmail.com | Password: 123
+Website: Facebook | Email: mesttest71@gmail.com | Password: 321321
+Website: Youtube | Email: mesttest71@gmail.com | Password: 12344
+Website: s321 | Email: mesttest71@gmail.com | Password: s123
+Website: s123s12 | Email: mesttest71@gmail.com | Password: s231
+Website:  | Email: mesttest71@gmail.com | Password: 
+Website:  | Email: mesttest71@gmail.com | Password: 
+Website:  | Email: mesttest71@gmail.com | Password: 
+Website: Twitter | Email: mesttes9123s@gmail.com | Password: j1g4p0i%))zmmWgG)123214
